@@ -13,9 +13,6 @@ class Person
        25
     end 
     
-     def happiness=(happiness)
-          0..10
-    end
     
 end
 
